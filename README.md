@@ -5,7 +5,7 @@ Este teste é um aplicativo de exemplo desenvolvido com React Native, Expo e AWS
 . Este projeto foi criado usando o comando:
 
 ```bash
-npx create-expo-app expo-amplify-store --template blank.
+npx create-expo-app expo-amplify-store --template blank .
 ```
 
 ### Visão Geral
