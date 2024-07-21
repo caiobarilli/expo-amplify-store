@@ -36,13 +36,13 @@ Instale as dependências do projeto:
 npm install
 ```
 
-Siga as instruções para configurar o AWS Amplify no projeto. Para mais informações, consulte a documentação oficial do Amplify: [https://docs.amplify.aws/gen1/react/start/getting-started/installation/]
+Siga as instruções para configurar o AWS Amplify no projeto. Para mais informações, consulte a documentação oficial do [Amplify](https://docs.amplify.aws/gen1/react/start/getting-started/installation/)
 
 ```bash
 amplify configure
 ```
 
-Siga as instruções para configurar o (Amplify Auth)[https://docs.amplify.aws/gen1/react/build-a-backend/auth/set-up-auth/]
+Siga as instruções para configurar o [Amplify Auth](https://docs.amplify.aws/gen1/react/build-a-backend/auth/set-up-auth/)
 
 ```bash
 amplify add auth
